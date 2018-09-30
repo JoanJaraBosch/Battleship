@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1529060303 source:c:\practicabarcos2018\fase1\barcos2018_p.c
+	"barcos2018.h"
+	"rutslib2018.h"
+	<stdio.h>
+
+1525794152 c:\practicabarcos2018\fase1\barcos2018.h
+
+1525644422 c:\practicabarcos2018\fase1\rutslib2018.h
+
+1528997235 source:c:\practicabarcos2018\fase1\fase1main.c
+	"barcos2018.h"
+	"rutslib2018.h"
+	<stdio.h>
+
+1525645052 source:c:\practicabarcos2018\fase1\rutslib2018.c
+	<stdlib.h>
+	<time.h>
+	"rutslib2018.h"
+
+1527181329 source:c:\practicabarcos2018\fase1\barcos2018_j.c
+	"barcos2018.h"
+	"rutslib2018.h"
+	<stdlib.h>
+
+1528999127 source:c:\practicabarcos2018\fase1\testlib2018.c
+
+1529063678 source:c:\practicabarcos2018\fase1\testbarcos2018.c
+	"barcos2018.h"
+	"rutslib2018.h"
+	<stdio.h>
+

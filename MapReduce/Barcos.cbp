@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Barcos" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Barcos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Barcos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../PracticaBarcos2018/fase1/barcos2018.h" />
+		<Unit filename="../PracticaBarcos2018/fase1/barcos2018_j.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../PracticaBarcos2018/fase1/barcos2018_p.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../PracticaBarcos2018/fase1/fase1main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../PracticaBarcos2018/fase1/rutslib2018.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../PracticaBarcos2018/fase1/rutslib2018.h" />
+		<Unit filename="../PracticaBarcos2018/fase1/testbarcos2018.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../PracticaBarcos2018/fase1/testlib2018.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../PracticaBarcos2018/fase1/testlib2018.pdf" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
